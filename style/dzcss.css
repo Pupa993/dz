@@ -1,1 +1,12 @@
-
+.shrift {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    margin-top: 200px ;
+    margin-left: 100px;
+}
+a {
+     text-decoration: none; color: navy; 
+    }
+a:hover { 
+    text-decoration: underline;
+ }
